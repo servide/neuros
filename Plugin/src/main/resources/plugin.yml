@@ -1,0 +1,6 @@
+name: Neuros
+version: 1.0-SNAPSHOT
+main: co.insou.neuros.plugin.NeurosPlugin
+
+commands:
+  neuros:
